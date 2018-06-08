@@ -1,7 +1,6 @@
 # Clear-Expressions
 converts JSON  into Mathematical expression,Simplifies it and solve it.
 
-- V2.0 is the modular Version
 
 # Description
 You will be given a JSON file as an input. This file will contain a equation in a structured format
